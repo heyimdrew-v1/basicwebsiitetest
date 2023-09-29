@@ -1,0 +1,83 @@
+#button-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: maroon;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#change-bg-color {
+  background-color: maroon;
+  color: white;
+  padding: 10px 20px;
+}
+.header{
+position: absolute;
+color: maroon;
+font-size: 40px;
+}
+
+  
+.name{
+position:absolute;
+left: 20px;
+top:80px;
+color: rgba(39, 123, 245, 0.8);
+}
+
+h3{
+position:absolute;
+top:390px;
+left:20px;
+background-color: rgba(39, 123, 245, 0.8);
+}
+
+.h3e{
+position:absolute;
+top:230px;
+background-color: rgba(39, 123, 245, 0.8);
+    
+  }
+.para{
+  position:absolute;
+  top:120px;
+}   
+
+.para2{
+  position:absolute;
+  top:280px;
+}
+
+  .para3{
+    position:absolute;
+    top:440px;
+  }
+
+
+#button-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center; 
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: maroon;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
